@@ -75,7 +75,7 @@ Hadoop : 김혜지, 최혜린
 
 ### 화면 설계
 
-![Group_24](https://lab.ssafy.com/s06-bigdata-dist-sub2/S06P22A301/uploads/bfc9f2ff63a8158f442c538706df0880/Group_24.png)
+![Group_24](https://user-images.githubusercontent.com/51371085/163180196-859f8ab2-c15d-4a31-a44f-f6957748a7f3.png)
 
 ### ERD
 
