@@ -30,6 +30,10 @@ Hadoop : 김혜지, 최혜린
 
 <br>
 
+## 📐 아키텍처
+![image](https://user-images.githubusercontent.com/51371085/172175163-e4943939-880d-4a5f-b431-92f542f68a92.png)
+
+
 ## 🔨 기술스택
 
 ### Front-End
